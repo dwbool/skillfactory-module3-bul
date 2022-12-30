@@ -1,0 +1,25 @@
+.items tbody tr:nth-of-type(2n+0) { 
+    background-color: rgb(252, 198, 12); 
+}
+
+.items {
+    border-collapse: collapse;
+}
+
+.items th,
+.items td {
+    border: 1px solid black;
+}
+
+
+.name-text {
+    font-weight: bold;
+}
+
+.prof-text {
+    color: rgb(201, 29, 29);
+}
+
+.city-text {
+    font-style: italic;
+}
